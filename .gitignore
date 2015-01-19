@@ -1,0 +1,5 @@
+TelnetApplication/Debug/
+*.ipch
+ExampleApplication/Debug/
+ExampleApplication/Release/
+ExampleApplication/exampleTelnetServerApp.sdf
